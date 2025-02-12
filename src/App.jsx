@@ -5,6 +5,7 @@ const App = () => {
   return (
     <>
       <Quiz/>
+      <footer>;copy Debabrata</footer>
     </>
   )
 }
